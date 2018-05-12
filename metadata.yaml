@@ -16,6 +16,8 @@ creator:
     - http://zh.wikipedia.org/wiki/%E9%99%B8%E7%BE%BD
     - http://en.wikipedia.org/wiki/Lu_Yu
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/23949#--
 gutenberg_issued: '2007-12-21'
 gutenberg_type: Text
 identifiers:
